@@ -4,8 +4,11 @@ This code is provided with the 28th European Conference on Artificial Intelligen
 The code was tested with the following dependencies:
 
 matplotlib==3.10.5
+
 networkx==3.5
+
 numpy==2.3.2
+
 tqdm==4.67.1
 
 To install them, please run the following command:
