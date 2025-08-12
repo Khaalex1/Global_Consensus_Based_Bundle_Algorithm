@@ -1,7 +1,7 @@
 # Global_Consensus_Based_Bundle_Algorithm
-Code provided with the ECAI 2025 paper "Enhancing CBBA convergence and optimality guarantees in Multiagent Task Allocation". It contains the implementations of CBBA and GCBBA (see GCBBA.py file) as well as SGA (see SGA.py file). The algorithms are tested on multi Traveling Salesman Problems.
+This code is provided with the 28th European Conference on Artificial Intelligence (ECAI 2025) paper "Enhancing CBBA convergence and optimality guarantees in Multiagent Task Allocation". It contains the implementations of CBBA and our proposed algorithm GCBBA (see GCBBA.py file), as well as SGA (see SGA.py file). These algorithms are used on multi Traveling Salesman Problems.
 
-The code was testeed with the following dependencies:
+The code was tested with the following dependencies:
 
 matplotlib==3.10.5
 networkx==3.5
